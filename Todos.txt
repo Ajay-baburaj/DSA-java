@@ -1,3 +1,96 @@
-Check Sorted Array - codeKerdos
-Missing Ranges - codeKerdos
+DSA MASTER TODO — Arrays & Strings sheet (official CSV)
+==========================================================================
+Legend: [x] done   [ ] pending   [~] in progress
+Priority order: finish ALL "Must do" before touching "Extra" items.
 
+--- MUST DO: BASIC (12 total) ---
+[x] 1. Second Largest Element in an Array
+[x] 4. Remove Duplicates from Sorted Array
+[x] 5. Move Zeroes
+[x] 7. Missing Number
+[x] 8. Single Number
+[ ] 10. Merge Sorted Array
+[ ] 11. Sort an Array (merge sort + quick sort)
+[ ] 12. Two Sum
+[ ] 13. Majority Element
+[ ] 14. Best Time to Buy and Sell Stock
+[ ] 16. Valid Palindrome
+[ ] 17. Valid Anagram
+
+--- MUST DO: MEDIUM (18 total) ---
+[ ] Rotate Array
+[ ] Sort Colors
+[ ] Maximum Subarray
+[ ] Next Permutation
+[ ] Longest Consecutive Sequence
+[ ] Longest Subarray with Sum K          (same pattern as video-lesson extra)
+[ ] Subarray Sum Equals K                (same pattern as video-lesson extra)
+[ ] 3Sum
+[ ] Container With Most Water
+[ ] Product of Array Except Self
+[ ] Longest Substring Without Repeating Characters
+[ ] Longest Repeating Character Replacement
+[ ] Set Matrix Zeroes
+[ ] Rotate Image
+[ ] Spiral Matrix
+[ ] Merge Intervals
+[ ] Group Anagrams
+[ ] Longest Palindromic Substring
+
+--- DONE AS BONUS (sheet marks these "Extra", already solved) ---
+[x] 3. Check if Array Is Sorted and Rotated
+[x] 6. Max Consecutive Ones
+[x] 9. Find Pivot Index (all 3 approaches)
+[x] LC 303 - Range Sum Query - Immutable
+[x] Generate All Subarrays
+[x] Concepts quiz: subset vs subsequence vs subarray
+
+--- EXTRA: BASIC (6 pending, do after Must-do is clear) ---
+[ ] 2. Leaders in an Array
+[ ] 15. Pascal's Triangle
+[ ] 18. Longest Common Prefix
+[ ] 19. Isomorphic Strings
+[ ] 20. Roman to Integer
+[ ] 21. Valid Palindrome II
+
+--- EXTRA: MEDIUM (8 pending, do after Must-do is clear) ---
+[ ] Rearrange Array Elements by Sign
+[ ] Find All Duplicates in an Array
+[ ] Max Consecutive Ones III
+[ ] Permutation in String
+[ ] Find All Anagrams in a String
+[ ] Reverse Words in a String
+[ ] String Compression
+[ ] String to Integer (atoi)
+
+--- VIDEO LESSON EXTRAS (Prefix Sum + Sliding Window module, 8 pending) ---
+(Subarray Sum Equals K and Longest Subarray with Sum K already listed above under Must-do Medium)
+[ ] LC 974 - Subarray Sums Divisible by K
+[ ] LC 525 - Contiguous Array
+[ ] LC 523 - Continuous Subarray Sum
+[ ] LC 643 - Maximum Average Subarray I
+[ ] LC 1456 - Max Number of Vowels in a Substring
+[ ] LC 904 - Fruit Into Baskets
+[ ] LC 209 - Minimum Size Subarray Sum
+[ ] LC 76 - Minimum Window Substring (Hard, 90 min — cut first if time is tight)
+
+--- FOUNDATIONS ---
+[~] Hashmap API refresher
+
+--- CODEKERDOS EXTRAS (not on tutor sheet) ---
+[x] Check Sorted Array
+[x] Missing Ranges
+[ ] Permutation and Combinations
+
+--- DEFERRED (optional per sheet / covered elsewhere) ---
+- 10 Before-class prereq tasks (covered via parallel Java/OOPs track instead)
+- Advanced section (11 problems, some "Must do" within it, but whole section is
+  optional per sheet header — only attempt once ALL Must-do + Extra above is done)
+
+==========================================================================
+MUST-DO TOTAL: 30 (Basic 12 + Medium 18) | DONE: 5 | PENDING: 25
+EXTRA TOTAL: 14 (Basic 6 + Medium 8) | DONE: 0 | PENDING: 14
+BONUS DONE (beyond requirement): 6
+CODEKERDOS: 1 done, 1 in progress, 1 pending
+VIDEO EXTRAS TOTAL: 8 | DONE: 0 | PENDING: 8
+GRAND PENDING (Must-do + Extra + Video + codeKerdos): 49
