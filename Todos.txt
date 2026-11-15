@@ -13,8 +13,8 @@ Priority order: finish ALL "Must do" before touching "Extra" items.
 [ ] 11. Sort an Array (merge sort + quick sort)
 [x] 12. Two Sum
 [x] 13. Majority Element
-[ ] 14. Best Time to Buy and Sell Stock
-[ ] 16. Valid Palindrome
+[x] 14. Best Time to Buy and Sell Stock
+[x] 16. Valid Palindrome
 [ ] 17. Valid Anagram
 
 --- MUST DO: MEDIUM (18 total) ---
@@ -88,7 +88,7 @@ Priority order: finish ALL "Must do" before touching "Extra" items.
   optional per sheet header — only attempt once ALL Must-do + Extra above is done)
 
 ==========================================================================
-MUST-DO TOTAL: 30 (Basic 12 + Medium 18) | DONE: 6 | PENDING: 24
+MUST-DO TOTAL: 30 (Basic 12 + Medium 18) | DONE: 8 | PENDING: 22
 EXTRA TOTAL: 14 (Basic 6 + Medium 8) | DONE: 0 | PENDING: 14
 BONUS DONE (beyond requirement): 6
 CODEKERDOS: 1 done, 1 in progress, 1 pending
