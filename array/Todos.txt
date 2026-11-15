@@ -15,7 +15,7 @@ Priority order: finish ALL "Must do" before touching "Extra" items.
 [x] 13. Majority Element
 [x] 14. Best Time to Buy and Sell Stock
 [x] 16. Valid Palindrome
-[ ] 17. Valid Anagram
+[x] 17. Valid Anagram
 
 --- MUST DO: MEDIUM (18 total) ---
 [ ] Rotate Array
@@ -88,7 +88,7 @@ Priority order: finish ALL "Must do" before touching "Extra" items.
   optional per sheet header — only attempt once ALL Must-do + Extra above is done)
 
 ==========================================================================
-MUST-DO TOTAL: 30 (Basic 12 + Medium 18) | DONE: 8 | PENDING: 22
+MUST-DO TOTAL: 30 (Basic 12 + Medium 18) | DONE: 9 | PENDING: 21
 EXTRA TOTAL: 14 (Basic 6 + Medium 8) | DONE: 0 | PENDING: 14
 BONUS DONE (beyond requirement): 6
 CODEKERDOS: 1 done, 1 in progress, 1 pending
