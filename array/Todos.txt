@@ -88,9 +88,9 @@ Priority order: finish ALL "Must do" before touching "Extra" items.
   optional per sheet header — only attempt once ALL Must-do + Extra above is done)
 
 ==========================================================================
-MUST-DO TOTAL: 30 (Basic 12 + Medium 18) | DONE: 9 | PENDING: 21
+MUST-DO TOTAL: 30 (Basic 12 + Medium 18) | DONE: 11 | PENDING: 19
 EXTRA TOTAL: 14 (Basic 6 + Medium 8) | DONE: 0 | PENDING: 14
 BONUS DONE (beyond requirement): 6
-CODEKERDOS: 1 done, 1 in progress, 1 pending
+CODEKERDOS: 2 done, 1 pending (Hashmap API refresher tracked separately under Foundations, in progress)
 VIDEO EXTRAS TOTAL: 8 | DONE: 0 | PENDING: 8
-GRAND PENDING (Must-do + Extra + Video + codeKerdos): 49
+GRAND PENDING (Must-do + Extra + Video + codeKerdos): 42
