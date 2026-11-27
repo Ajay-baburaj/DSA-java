@@ -9,8 +9,16 @@ stacks/queues, sliding window, binary search).
 
 ```
 Java/
-├── array/      # Arrays & Strings topic — see array/Todos.txt for the full tracker
-└── ...         # more topics coming soon
+├── array/             # Arrays & Strings, with the full tracker in Todos.txt
+│   ├── bit-manipulation/
+│   ├── brute-force/
+│   ├── hash-map/
+│   ├── prefix-sum/
+│   ├── single-pass/
+│   ├── sliding-window/
+│   ├── sorting/
+│   └── two-pointer/
+└── ...                # more topics coming soon
 ```
 
 Each topic folder contains:
@@ -49,7 +57,7 @@ and bonus), with live progress tracking.
 Each problem is a standalone class with its own `main`:
 
 ```bash
-cd array
-javac SecondLargest.java
-java SecondLargest
+cd array/two-pointer
+javac MoveZeroes.java
+java MoveZeroes
 ```
