@@ -28,6 +28,8 @@ Each topic folder contains:
 
 ## Array — solved so far
 
+When you finish a problem, add it to this table with the technique used.
+
 | # | Problem | Technique |
 |---|---------|-----------|
 | 1 | Second Largest Element in an Array | Single pass, two running maxes |
@@ -48,6 +50,10 @@ Each topic folder contains:
 | 16 | Valid Palindrome | Two pointers, skip non-alphanumeric |
 | 17 | Valid Anagram | HashMap character counting |
 | 18 | Missing Ranges | Gap detection around a sorted array |
+| 19 | Count Pairs With Duplicates | Sort and use two pointers, or count frequencies with a HashMap |
+| 20 | Merge Sort | Recursively split the array, then merge the sorted halves |
+| 21 | Bubble Sort | Swap adjacent out-of-order elements and stop after a pass with no swaps |
+| 22 | Selection Sort | Find the largest remaining element and swap it into the last open position |
 
 See [array/Todos.txt](array/Todos.txt) for the complete problem list (must-do, extra,
 and bonus), with live progress tracking.
